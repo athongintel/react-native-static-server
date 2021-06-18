@@ -1,10 +1,11 @@
 {
   "name": "react-native-http-file-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "React Native File Server",
   "description": "HTTP file server for React Native",
   "main": "index.js",
   "types": "index.d.ts",
+  "homepage": "https://github.com/athongintel/react-native-static-server",
   "repository": {
     "type": "git",
     "url": "https://github.com/athongintel/react-native-static-server"
