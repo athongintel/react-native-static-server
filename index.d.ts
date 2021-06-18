@@ -1,4 +1,4 @@
-declare module 'react-native-static-server' {
+declare module 'react-native-file-server' {
   type Options = {
     localOnly?: boolean
     keepAlive?: boolean

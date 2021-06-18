@@ -1,16 +1,14 @@
 {
-  "name": "react-native-static-server",
-  "version": "0.5.0",
+  "name": "react-native-file-server",
+  "version": "0.5.1",
+  "title": "React Native File Server",
+  "description": "HTTP file server for React Native",
+  "main": "index.js",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/futurepress/react-native-static-server.git",
-    "baseUrl": "https://github.com/futurepress/react-native-static-server"
+    "url": "https://github.com/athongintel/react-native-static-server"
   },
-  "homepage": "https://github.com/futurepress/react-native-static-server",
-  "title": "React Native Static Server",
-  "description": "HTTP static file server for React Native",
-  "main": "index.js",
-  "typings": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,8 +16,8 @@
     "react-native"
   ],
   "author": {
-    "name": "Fred Chasen",
-    "email": "fchasen@gmail.com"
+    "name": "immort",
+    "email": "dangxuanthong@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
