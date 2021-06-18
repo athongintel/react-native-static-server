@@ -1,6 +1,6 @@
 {
-  "name": "react-native-file-server",
-  "version": "0.5.1",
+  "name": "react-native-http-file-server",
+  "version": "1.0.0",
   "title": "React Native File Server",
   "description": "HTTP file server for React Native",
   "main": "index.js",
@@ -31,6 +31,6 @@
     "ios",
     "index.js",
     "index.d.ts",
-    "react-native-static-server.podspec"
+    "react-native-http-file-server.podspec"
   ]
 }
